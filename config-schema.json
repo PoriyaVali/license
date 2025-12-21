@@ -1,0 +1,55 @@
+{
+  "version": "1.1.0",
+  "updated": "2025-12-20",
+  
+  "allowedHosts": [
+    "https://ddr.drmobilejayzan.info/"
+  ],
+  
+  "domains": {
+    "https://ddr.drmobilejayzan.info/": {
+      "name": "دکتر موبایل جایزان",
+      "enabled": true,
+      "permissions": {
+        "rightClick": true,
+        "f12": true,
+        "devTools": true,
+        "viewSource": true,
+        "copyText": true,
+        "printPage": true
+      }
+    }
+  },
+  
+  "defaultPermissions": {
+    "rightClick": false,
+    "f12": false,
+    "devTools": false,
+    "viewSource": false,
+    "copyText": true,
+    "printPage": true
+  },
+  
+  "allowedKeys": [
+    "logo",
+    "title",
+    "host",
+    "mirrorDomain",
+    "loginPage",
+    "termsOfService",
+    "gateway_status",
+    "gateway_message",
+    "storeHome",
+    "SignPage",
+    "subscribeNotes",
+    "appsByOS",
+    "homeClient",
+    "homeBanner",
+    "giftCard",
+    "appstore",
+    "notice",
+    "knowledgeImages",
+    "knowledgeImagesByKeyword",
+    "getKnowledgeImage"
+  ]
+}
