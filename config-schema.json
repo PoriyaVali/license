@@ -11,12 +11,12 @@
       "name": "دکتر موبایل جایزان",
       "enabled": true,
       "permissions": {
-        "rightClick": true,
-        "f12": true,
-        "devTools": true,
-        "viewSource": true,
-        "copyText": true,
-        "printPage": true
+        "rightClick": false,
+        "f12": false,
+        "devTools": false,
+        "viewSource": false,
+        "copyText": false,
+        "printPage": false
       }
     }
   },
@@ -26,8 +26,8 @@
     "f12": false,
     "devTools": false,
     "viewSource": false,
-    "copyText": true,
-    "printPage": true
+    "copyText": false,
+    "printPage": false
   },
   
   "allowedKeys": [
