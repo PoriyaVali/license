@@ -9,7 +9,7 @@
   "domains": {
     "https://ddr.drmobilejayzan.info/": {
       "name": "دکتر موبایل جایزان",
-      "enabled": false,
+      "enabled": true,
       "permissions": {
         "rightClick": true,
         "f12": true,
